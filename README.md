@@ -6,7 +6,7 @@
 
 🔗 Check out some of my work at https://www.habibrahman.xyz.
 
-💻 Some of the technologies I work with are React, Next.js, Express, JavaScript/HTML/CSS, Java, Python, and TailwindCSS.
+💻 Some of the technologies I work with are React, Next.js, Express, JavaScript/HTML/CSS, TypeScript, Java, Python, TailwindCSS, and C# (.NET Core).
 
 🏋️‍♂️ In my free time, I like to lift weights and build side projects.
 
