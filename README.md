@@ -11,5 +11,3 @@
 🏋️‍♂️ In my free time, I like to lift weights and build side projects.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lhlrahman&show_icons=true&locale=en&layout=compact" alt="lhlrahman" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lhlrahman&" alt="lhlrahman" /></p>
