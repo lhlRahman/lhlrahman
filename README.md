@@ -9,10 +9,11 @@
 🔗 Check out some of my work at https://www.habibrahman.xyz.
 
 💻 Some of the technologies I work with are:
-  Languages: JavaScript, TypeScript, Java, Python, SQL
-  Frameworks/Libraries: React, Next.js, Express.js, Node.js
-  Testing: Chai, Mocha
-  Database: PostgreSQL, MongoDB, NeonDB, Firebase, Prisma
+
+      Languages: JavaScript, TypeScript, Java, Python, SQL
+      Frameworks/Libraries: React, Next.js, Express.js, Node.js
+      Testing: Chai, Mocha
+      Database: PostgreSQL, MongoDB, NeonDB, Firebase, Prisma
 
 🏋️‍♂️ In my free time, I like to lift weights, build side projects, and [make Data Structure and Algorithm videos](https://www.youtube.com/@habibrahman830).
 
